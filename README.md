@@ -22,7 +22,7 @@
 - Originally from Hungary but living in the Netherlands for more than 7 years
 
 
-#### 🌱 I’m currently learning 
+#### 🌱 I’m currently using and learning
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
